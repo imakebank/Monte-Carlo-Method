@@ -1,3 +1,3 @@
-https://creativecommons.org/share-your-work/public-domain/freeworks
+https://creativecommons.org/licenses/by/4.0/
 
 This software was made on Godot Engine: https://godotengine.org/license
