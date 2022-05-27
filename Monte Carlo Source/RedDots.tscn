@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://singlepixelred.png" type="Texture" id=1]
+
+[node name="RedDots" type="Node2D"]
+
+[node name="Singlepixelred" type="Sprite" parent="."]
+position = Vector2( 0, -1 )
+texture = ExtResource( 1 )
