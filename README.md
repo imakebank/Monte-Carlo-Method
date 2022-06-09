@@ -1,1 +1,1 @@
-This is my Monte Carlo Simulations for my maths assignment made by using Godot
+This is my Monte Carlo Simulation for my maths assignment made by using Godot
